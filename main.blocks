@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="y^A1S~|py8Nc|UJKH4wD" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="S|2FqB:yxdm]V*0XD*)6"><value name="text"><shadow type="text" id="VN@HH4i)4ltXC3O!zLbr"><field name="TEXT">Hi</field></shadow></value><next><block type="device_print_message" id="SwElQt~j[:BDLQV!W.at"><value name="text"><shadow type="text" id="F}8X08.H:;TKm]S0Z5]Q"><field name="TEXT">I </field></shadow></value><next><block type="device_print_message" id="AbfFz~[u{DpJ9iUSzWfi"><value name="text"><shadow type="text" id="Bo+=Io6@bOIui|!l)%l?"><field name="TEXT">Am</field></shadow></value><next><block type="device_print_message" id="(yMP-`i-U$kOGPtet/C0"><value name="text"><shadow type="text" id="FWc]!|(Gcw*0hP!]q=jq"><field name="TEXT">Chin</field></shadow></value><next><block type="device_print_message" id="oY5RLx~_1]Codq7SS3TW"><value name="text"><shadow type="text" id="00{4/($QnxM-g$25%8s4"><field name="TEXT">Yee</field></shadow></value><next><block type="device_print_message" id="W~Vzt1RcWOq+e#D9*aw@"><value name="text"><shadow type="text" id=":Td1#t_qb1au`BpJjfmm"><field name="TEXT">Heng</field></shadow></value><next><block type="device_print_message" id="r#,:L.uqNCT6tJ@v5x-i"><value name="text"><shadow type="text" id="ARO0kLe,u#7!T)WbD+F8"><field name="TEXT">And</field></shadow></value><next><block type="device_print_message" id="Ek*=kU2n.9~#ROhX9[aE"><value name="text"><shadow type="text" id="wVX{tUm}|lsa%9YyF,pK"><field name="TEXT">My </field></shadow></value><next><block type="device_print_message" id="ep|hSIt!VQD1;KNHNmW|"><value name="text"><shadow type="text" id=".:k8@1PFT$ESAe9ctX#A"><field name="TEXT">Class</field></shadow></value><next><block type="device_print_message" id="78)GR3uw)G0^a9?N1Cv?"><value name="text"><shadow type="text" id="Yt~p`6=GHb9z:d:(j/#Z"><field name="TEXT">Number </field></shadow></value><next><block type="device_print_message" id="($O`MY}8{uk!A}+x4W7K"><value name="text"><shadow type="text" id="B.X7(oLR/39~]^pt;g7P"><field name="TEXT">Is</field></shadow></value><next><block type="device_show_leds" id="E*=r-ihFc$g7iip~2N]~"><field name="LEDS">`
+        . # # # . 
+        # . . . # 
+        . # # # . 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_print_message" id="Y.bEuilCF+S.Gy6,y|St"><value name="text"><shadow type="text" id="a8BWx,UI#P%8brdz[EF0"><field name="TEXT">Thanks </field></shadow></value><next><block type="device_print_message" id="GCVu?^TpwV_i.A7DIa^k"><value name="text"><shadow type="text" id="l8+%YGXc%jsaErh_:idZ"><field name="TEXT">For </field></shadow></value><next><block type="device_print_message" id="A!u@Pk,.(!J@}jJN;b?m"><value name="text"><shadow type="text" id="C@t^]v;VbZ47tZ+-Uq~X"><field name="TEXT">Watching </field></shadow></value><next><block type="device_show_leds" id="R@;duF8e}e-n/91?1,Y!"><field name="LEDS">`
+        # # # # . 
+        # . . . # 
+        # # # # . 
+        # . . . # 
+        # # # # .
+        `</field><next><block type="device_show_leds" id="u|./JBapI5|MyJvcWadr"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="@Z6!pfT=LRr8D_E(x^w_"><field name="LEDS">`
+        # # # # # 
+        # . . . . 
+        # # # # . 
+        # . . . . 
+        # # # # #
+        `</field><next><block type="radio_datagram_send_value" id="9AdV=|.g1VSOHRn/^3#v"><value name="name"><shadow type="text" id="dIbOV`.:q5@|q1907v+q"><field name="TEXT">Bye</field></shadow></value><value name="value"><shadow type="math_number" id="2eb[pFTt[tl.4p)qElnt"><field name="NUM">0</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
